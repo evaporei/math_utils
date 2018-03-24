@@ -1,0 +1,8 @@
+[package]
+name = "math_utils"
+version = "0.1.0"
+authors = ["Otávio Pace <otaviopp8@gmail.com>"]
+description = "Math utilities"
+license = "MIT"
+
+[dependencies]
