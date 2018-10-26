@@ -21,6 +21,7 @@ pub fn gcd(mut a: u64, mut b: u64) -> u64 {
 
         b = b % a;
     }
+
     a
 }
 
